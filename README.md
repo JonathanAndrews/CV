@@ -62,7 +62,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Account Planning Intern*
 - Worked on Kia Motors and Southeastern Train accounts.
 - Developed strategies to increase foot traffic through key stations during off-peak periods.
-- Researched and presented analysis of Kia’s competitors’ tactics to promote Business Fleet Sales and Consumer After-Sales.   
+- Researched and presented analysis of Kia’s competitors’ tactics to promote Business Fleet Sales and Consumer After-Sales.
+
 **UNIT9 Films** (June 2015 to August 2015)   
 *Production Assistant Intern*
 - Helped to design and perfect treatments.
@@ -70,11 +71,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Assisted producers in planning of shoots.
 - Acted as a Runner on set.
 - Delivered drives containing projects across London.
+
 **JHU European Association** (September 2015 to August 2015)   
 *President and Co-Founder*
 - Passed all assessments and interviews from College Authorities.
 - Using a loan of $100 created events providing opportunities for JHU students to discuss travelling and studying in Europe, plus social activities to promote discussion of cultural similarities and differences.
 - Having repaid the loan the year ended with 30 members and a surplus of $106 for future use.
+
 **London Nightline** (September 2013 to July 2014)   
 *Hotline Volunteer*
 - Worked 6pm to 8am every two weeks for Nightline, a student run charity providing a confidential information and listening service.
