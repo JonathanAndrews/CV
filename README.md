@@ -48,7 +48,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Python
 
 #### University College (September 2012 to July 2016)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;including Study Abroad @ Johns Hopkins University, USA (August 2014 to June 2015)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;including Study Abroad at **Johns Hopkins University, USA (August 2014 to June 2015)**
 
 - MSci Neuroscience and Organic Chemistry
 - 1st Class Honours
