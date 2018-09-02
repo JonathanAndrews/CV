@@ -10,7 +10,7 @@ Masters Degree
 - I have found that the key to solving larger problems is to break them down into a series of manageable steps and then to chain those steps together.
 - The most obvious example of my applying this principle comes from my time at university.
   - I spent three years designing synthetic pathways to manufacture chemical compounds.
-  - This involved modifying a starting compound through a series of individual reactions until the desired compound had been produced.
+  - This involved modifying a starting compound through a series of individual reactions until the desired product had been produced.
 
 Account Planning Intern
 - While working at VCCPme, I converted briefings from given to us by clients and into a strategy.
@@ -31,10 +31,10 @@ Study Abroad
 - On arriving, I experienced two types of culture shock:
 - Social
   - I found that not only did people struggle to understand what I was saying, but when they did understand, my self-deprecating sense of humour was met with genuine concern for my mental health.
-  - I consciously adapted the aspects of my behaviour which were leading to social friction for example, I started to speak more slowly and articulated my words properly.
+  - I consciously adapted the aspects of my behaviour which were leading to social friction. For example, I started to speak more slowly and articulated my words properly.
 - Academic.
   - I initially found the relentless mid-term testing very difficult.
-  - I was also determined not to let the opportunity to study anything I wanted slip through my fingers, so on top of my full Neuroscience and Chemistry course load, I took classes in Marketing, Film theory and Screenwriting, eventually writing a screenplay and directing a short film.
+  - I was also determined not to let the opportunity to "study anything I wanted" slip through my fingers, so on top of my full Neuroscience and Chemistry course load, I took classes in Marketing, Film theory and Screenwriting, eventually writing a screenplay and directing a short film.
   - This meant that I had an very heavy workload compared to previous years.
   - However, as time went on I became more efficient in my learning and at the end of the year had not received a single grade below an A-.
 - Although I adapted quickly to my changed environment, other study abroad students didn't...(See next section)
@@ -47,8 +47,8 @@ President and Co-Founder of JHU European Association
 - As president I led a committee of Frenchmen, Spaniards and Greeks, with a range of english language abilities.
   - First, we applied to found a society and passed all assessments and interviews from College Authorities.
   - Then using a loan of $100 we sold crepes in the quad to raise funds.
-  - We then used the funds created events providing opportunities for JHU students to discuss travelling and studying in Europe, plus social activities to promote discussion of cultural similarities and differences.
-  - By inviting, both Americans and exchange students to the events, shy exchange students were able to meet more americans.
+  - We then used the funds to create events providing opportunities for JHU students to discuss travelling and studying in Europe, plus social activities to promote discussion of cultural similarities and differences.
+  - By inviting, both Americans and exchange students to the events, shy exchange students were able to meet more Americans.
   - Having repaid the loan, the year ended with 30 members and a surplus of $106 for future use.
 
 
