@@ -1,8 +1,6 @@
 ## Jonathan Andrews
 
-While undertaking a Masters in Neuroscience and Chemistry, I found that the most enjoyable part of the experience was coding the experiment in MATLAB. After graduating with a 1st, I trained to become a Software Developer at Makers Academy. I am hoping to find work as a Back-end web developer or a Machine-learning engineer in an environment where I can learn as much as possible.
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+While undertaking a Masters in Neuroscience and Chemistry, I found that the most enjoyable part of the experience was coding my experiment in MATLAB. After graduating with a 1st, I trained to become a Software Developer at Makers Academy. I am hoping to find work as a Back-end web developer( or a Machine-learning engineer) in an environment where I can learn as much as possible.
 
 ## Skills
 
@@ -50,7 +48,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Python
 
 #### University College London (September 2012 to July 2016)
-<span style = "font-size: 2em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;including Study Abroad at **Johns Hopkins University, USA (August 2014 to June 2015)**</span>
+<span font-size: "2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;including Study Abroad at **Johns Hopkins University, USA (August 2014 to June 2015)**</span>
 
 - MSci Neuroscience and Organic Chemistry
 - 1st Class Honours
