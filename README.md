@@ -47,8 +47,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - SQL
 - Python
 
-#### University College (September 2012 to July 2016)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;including Study Abroad at **Johns Hopkins University, USA (August 2014 to June 2015)**
+#### University College London (September 2012 to July 2016)
+<span style = "font-size: 4em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;including Study Abroad at **Johns Hopkins University, USA (August 2014 to June 2015)**</span>
 
 - MSci Neuroscience and Organic Chemistry
 - 1st Class Honours
