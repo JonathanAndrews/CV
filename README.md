@@ -4,7 +4,7 @@ While undertaking a Masters in Neuroscience and Chemistry, I found that the most
 
 ## Skills
 
-#### Analytical Reasoning
+### Analytical Reasoning
 
 Masters Degree
 - I have found that the key to solving larger problems is to break them down into a series of manageable steps and then to chain those steps together.
@@ -24,27 +24,37 @@ Account Planning Intern
   - Developed strategies to increase foot traffic through key stations during off-peak periods.
   - Researched and presented analysis of Kia’s competitors’ tactics to promote Business Fleet Sales and Consumer After-Sales.
 
-####
+### Adaptable
 
+Study Abroad
+- I spent my third year of my degree studying at Johns Hopkins University, USA.
+- On arriving, I experienced two types of culture shock:
+- Social
+  - I found that not only did people struggle to understand what I was saying, but when they did understand, my self-deprecating sense of humour was met with genuine concern for my mental health.
+  - I consciously adapted the aspects of my behaviour which were leading to social friction for example, I started to speak more slowly and articulated my words properly.
+- Academic.
+  - I initially found the relentless mid-term testing very difficult.
+  - I was also determined not to let the opportunity to study anything I wanted slip through my fingers, so on top of my full Neuroscience and Chemistry course load, I took classes in Marketing, Film theory and Screenwriting, eventually writing a screenplay and directing a short film.
+  - This meant that I had an very heavy workload compared to previous years.
+  - However, as time went on I became more efficient in my learning and at the end of the year had not received a single grade below an A-.
+- Although I adapted quickly to my changed environment, other study abroad students didn't...(See next section)
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+### Leadership
 
-- Experience
-- Achievements
-- Evidence
+President and Co-Founder of JHU European Association
+- After two months or so in America, I repeatedly met americans who hadn't met any of the exchange students and exchange students who had failed to make many american friends.
+- In order to do something about this, a few friends and I founded the European Association.
+- As president I led a committee of Frenchmen, Spaniards and Greeks, with a range of english language abilities.
+  - First, we applied to found a society and passed all assessments and interviews from College Authorities.
+  - Then using a loan of $100 we sold crepes in the quad to raise funds.
+  - We then used the funds created events providing opportunities for JHU students to discuss travelling and studying in Europe, plus social activities to promote discussion of cultural similarities and differences.
+  - By inviting, both Americans and exchange students to the events, shy exchange students were able to meet more americans.
+  - Having repaid the loan, the year ended with 30 members and a surplus of $106 for future use.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (September 2018 to November 2018)
+### Makers Academy (September 2018 to November 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -55,7 +65,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Completed Codecademy Courses (August 2017 to Ongoing)
+### Completed Codecademy Courses (August 2017 to Ongoing)
 
 - Ruby
 - Git
@@ -68,7 +78,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - SQL
 - Python
 
-#### University College London (September 2012 to July 2016)
+### University College London (September 2012 to July 2016)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;including Study Abroad at **Johns Hopkins University, USA (August 2014 to June 2015)**
 
 - MSci Neuroscience and Organic Chemistry
@@ -77,13 +87,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
   - The study required the precise measurement of response times to stimuli.
   - In order to do this, I used MATLAB to automate the experiment's stimuli presentation and response data collection.
 
-#### A-levels
+### A-levels
 
 - Maths: A*
 - Chemistry: A*
 - Biology: A
 
-#### AS-levels:
+### AS-levels:
 
 - Further Maths: A
 - Economics: A
