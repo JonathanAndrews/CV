@@ -1,6 +1,15 @@
 # Jonathan Andrews
 
-While undertaking a Masters in Neuroscience and Chemistry, I found that the most enjoyable part of the experience was coding my experiment in MATLAB. After graduating with a 1st, I trained to become a Software Developer at Makers Academy. I am hoping to find work as a Back-end web developer( or a Machine-learning engineer) in an environment where I can learn as much as possible.
+While undertaking a Masters in Neuroscience and Chemistry, I found that the most enjoyable part of the experience was coding my experiment in MATLAB. After graduating with a 1st, I trained to become a Software Developer at Makers Academy. I am logical, determined and hoping to find work as a Back-end web developer( or a Machine-learning engineer) in an environment where I can learn as much as possible.
+
+# Projects
+
+| Title | Description | Technologies |
+| :---: |:-----------:| :-----------:|
+| N/A   | N/A         | N/A          |
+| N/A   | N/A         | N/A          |
+| N/A   | N/A         | N/A          |
+
 
 # Skills
 
@@ -36,8 +45,8 @@ Study Abroad
   - I initially found the relentless mid-term testing very difficult.
   - I was also determined not to let the opportunity to "study anything I wanted" slip through my fingers, so on top of my full Neuroscience and Chemistry course load, I took classes in Marketing, Film theory and Screenwriting, eventually writing a screenplay and directing a short film.
   - This meant that I had an very heavy workload compared to previous years.
-  - However, as time went on I became more efficient in my learning and at the end of the year had not received a single grade below an A-.
-- Although I adapted quickly to my changed environment, other study abroad students didn't...(See next section)
+  - However, as time went on I became more efficient in my learning and by the end of the year I had not received a single grade below an A-.
+- Although I adapted quickly to my changed with my environment, other exchange students hadn't...(See next section)
 
 ### Leadership
 
