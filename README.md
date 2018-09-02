@@ -1,8 +1,8 @@
-## Jonathan Andrews
+# Jonathan Andrews
 
 While undertaking a Masters in Neuroscience and Chemistry, I found that the most enjoyable part of the experience was coding my experiment in MATLAB. After graduating with a 1st, I trained to become a Software Developer at Makers Academy. I am hoping to find work as a Back-end web developer( or a Machine-learning engineer) in an environment where I can learn as much as possible.
 
-## Skills
+# Skills
 
 ### Analytical Reasoning
 
@@ -18,7 +18,7 @@ Account Planning Intern
   - How did the client/product want to be seen? (Brand Truth)
   - How were their competitors seen? (Market Truth)
   - Is there some experience, wisdom or aspect of life that can be tied to the promotion? (Human Truth)
-  - I would then pass on my findings to the creative department.
+- I would then pass on my findings to the creative department.
 - While at VCCPme I:
   - Worked on Kia Motors and Southeastern Train accounts.
   - Developed strategies to increase foot traffic through key stations during off-peak periods.
@@ -52,7 +52,7 @@ President and Co-Founder of JHU European Association
   - Having repaid the loan, the year ended with 30 members and a surplus of $106 for future use.
 
 
-## Education
+# Education
 
 ### Makers Academy (September 2018 to November 2018)
 
@@ -98,7 +98,7 @@ President and Co-Founder of JHU European Association
 - Further Maths: A
 - Economics: A
 
-## Experience
+# Experience
 
 **VCCPme** (September 2015 to October 2015)    
 *Account Planning Intern*
