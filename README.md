@@ -9,22 +9,22 @@ While undertaking a Masters in Neuroscience and Chemistry, I found that the most
 Masters Degree
 - I have found that the key to solving larger problems is to break them down into a series of manageable steps and then to chain those steps together.
 - The most obvious example of my applying this principle comes from my time at university.
- - I spent three years designing synthetic pathways to manufacture chemical compounds.
- - This involved modifying a starting compound through a series of individual reactions until the desired compound had been produced.
+  - I spent three years designing synthetic pathways to manufacture chemical compounds.
+  - This involved modifying a starting compound through a series of individual reactions until the desired compound had been produced.
 
 Account Planning Intern
 - While working at VCCPme, I converted briefings from given to us by clients and into a strategy.
 - I would break down the problem into three main parts:
- - How did the client/product want to be seen? (Brand Truth)
- - How were their competitors seen? (Market Truth)
- - Is there some experience, wisdom or aspect of life that can be tied to the promotion? (Human Truth)
-- I would then pass on my findings to the creative department.
+  - How did the client/product want to be seen? (Brand Truth)
+  - How were their competitors seen? (Market Truth)
+  - Is there some experience, wisdom or aspect of life that can be tied to the promotion? (Human Truth)
+  - I would then pass on my findings to the creative department.
 - While at VCCPme I:
- - Worked on Kia Motors and Southeastern Train accounts.
- - Developed strategies to increase foot traffic through key stations during off-peak periods.
- - Researched and presented analysis of Kia’s competitors’ tactics to promote Business Fleet Sales and Consumer After-Sales.
+  - Worked on Kia Motors and Southeastern Train accounts.
+  - Developed strategies to increase foot traffic through key stations during off-peak periods.
+  - Researched and presented analysis of Kia’s competitors’ tactics to promote Business Fleet Sales and Consumer After-Sales.
 
-#### 
+####
 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
