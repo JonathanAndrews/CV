@@ -1,6 +1,6 @@
 # Jonathan Andrews
 
-While undertaking a Masters in Neuroscience and Chemistry, I found that the most enjoyable part of the experience was coding my experiment in MATLAB. After graduating with a 1st, I trained to become a Software Developer at Makers Academy. I am logical, determined and hoping to find work as a Back-end web developer( or a Machine-learning engineer) in an environment where I can learn as much as possible.
+While undertaking a Masters in Neuroscience and Chemistry, I found that the most enjoyable part of the experience was coding my experiment in MATLAB. After graduating with a 1st, I trained to become a Software Developer at Makers Academy. I am logical, determined and hoping to find work as a web developer in an environment where I can learn as much as possible.
 
 # Projects
 
