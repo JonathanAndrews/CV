@@ -6,7 +6,7 @@ While undertaking a Masters in Neuroscience and Chemistry, I found that the most
 
 | Title | Description | Development Time | Languages | Technologies | Testing | Link to Repo |
 | :---: |:-----------:| :-----------:| :-----------:| :-----------:| :-----------: | :-----------:|
-| RobotFacePong   | Play pong against an AI trained using Reinforcement learning at various stages of its training. | 2 weeks |Python, JavaScript|  TensorFlow, TensorFlow.JS, Keras, ExpressJS,  | unitTest, Jest |[:robot_face:](https://github.com/JonathanAndrews/robot_pong)|
+| RobotFacePong   | Play pong against an AI trained using Reinforcement learning at various stages of its training. | 2 weeks |Python, JavaScript|  TensorFlow, TensorFlow.JS, Keras, ExpressJS,  | unitTest, Jest |[:tennis:](https://github.com/JonathanAndrews/robot_pong)|
 | RecipeBookBook | A Facebook Clone | 2 weeks | Ruby, JavaScript | Rails, React, PostgreSQL | RSpec, Jest, Capybara |[:book:](https://github.com/JonathanAndrews/acebook-RecipeBookBook)|
 | LocalHost | An AirBnB Clone | 1 weeks | JavaScript | Node, ExpressJS, Mongoose, MongoDB | Zombie, Jest, Zombie | [:house_with_garden:](https://github.com/JonathanAndrews/MakersBnB)|
 | Bowling ScoreCard | A Bowling score Calculator | 3 days | JavaScript | Node, Express | RSpec, Jest, Puppeteer | [:bowling:](https://github.com/JonathanAndrews/bowling-challenge)|
