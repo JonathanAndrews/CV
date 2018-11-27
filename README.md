@@ -44,12 +44,10 @@ Study Abroad
 
 President and Co-Founder of JHU European Association
 
-- After two months or so in America, I repeatedly met Americans who hadn't met any of the exchange students and exchange students who had failed to make many American friends.
-- In order to do something about this, a few friends and I founded the European Association.
-  - As president I led a committee of Frenchmen, Spaniards and Greeks, with a range of english language abilities.
-  - We organised events providing opportunities for JHU students to discuss travelling and studying in Europe, plus social activities to promote discussion of cultural similarities and differences.
-  - By inviting, both Americans and exchange students to the events, shy exchange students were able to meet more Americans.
-  - The year ended with 30 members and a surplus of $106 for future use.
+- As president, I led a committee of Frenchmen, Spaniards and Greeks, with a range of english language abilities.
+- We organised events providing opportunities for JHU students to discuss travelling and studying in Europe, plus social activities to promote discussion of cultural similarities and differences.
+- By inviting, both Americans and exchange students to the events, shy exchange students were able to meet more Americans.
+- The year ended with 30 members and a surplus of $106 for future use.
 
 ## Client Contact
 
