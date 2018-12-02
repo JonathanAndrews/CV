@@ -44,7 +44,7 @@ Study Abroad
 
 President and Co-Founder of JHU European Association
 
-- As president, I led a committee of Frenchmen, Spaniards and Greeks, with a range of english language abilities.
+- As president, I led a committee of Frenchmen, Spaniards and Greeks, with a range of English language abilities.
 - We organised events providing opportunities for JHU students to discuss travelling and studying in Europe, plus social activities to promote discussion of cultural similarities and differences.
 - By inviting, both Americans and exchange students to the events, shy exchange students were able to meet more Americans.
 - The year ended with 30 members and a surplus of $106 for future use.
